@@ -1,3 +1,7 @@
 # Benchmarking data-driven rainfall-runoff modeling across 54 catchments in the Yellow River Basin: Overfitting, calibration length, dry frequency
 
-The code used in the paper for benchmarking LSTM and CNN-LSTM on 54 Yellow River basins is provided here. Due to data distribution policy restrictions, the training data for all 54 basins are not available, and only sample inputs are provided here.
+Code accompanying the DDM section of our paper:
+Jin J, Zhang Y, Hao Z, et al. Benchmarking data-driven rainfall-runoff modeling across 54 catchments in the Yellow River Basin: Overfitting, calibration length, dry frequency[J]. Journal of Hydrology: Regional Studies, 2022, 42: 101119.
+
+Due to data distribution policy restrictions, the training data for all 54 basins are not available, only sample inputs are provided.
+
